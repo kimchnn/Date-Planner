@@ -1,0 +1,16 @@
+{"activities": [
+    {
+        "dateTimeString": "",
+        "name": "Pottery",
+        "scheduleStatus": false,
+        "location": "Vancouver",
+        "category": "Indoor"
+    },
+    {
+        "dateTimeString": "2024-02-17 12:00",
+        "name": "Brunch",
+        "scheduleStatus": true,
+        "location": "Burnaby",
+        "category": "Food"
+    }
+]}
