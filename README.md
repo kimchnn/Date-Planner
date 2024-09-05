@@ -51,3 +51,5 @@ Skating was scheduled.
 **Refactoring Opportunities**
 - I would introduce a new abstract class to capture shared behaviour between "ViewActivitiesWindow" and "ViewScheduledWindow", including methods for initializing components and handling user interactions. This refactoring would reduce code duplication and improve maintainability. By extending the new abstract class, any new view classes or modifications to the existing ones would adhere to a consistent structure, streamlining future development and maintenance.  
 - I would refactor DatePlannerGUI and DatePlannerUI to decouple the GUI from the console UI methods. This would improve the overall architecture by ensuring that the GUI operates independently of the console UI. This separation of concerns would make the code more modular, allowing the project to become more maintainable and easier to extend in the future.
+
+- I have reflected these two changes in the latest version.
