@@ -18,7 +18,6 @@ Sharing memorable experiences with loved ones is important, and this project aim
 - As a user, I want to be able to add activities to my collection, specifying their name, type and location 
 - As a user, I want to be able to view the list of activity names in my collection
 - As a user, I want to be able to remove activities from my collection
-- As a user, I want to be able to filter the activities by type (e.g. outdoor, restaurants, art, etc.) and location (by city), and view the list of activity names in the filtered lists
 - As a user, I want to be able to select an activity and schedule a date and time for it, adding it to a list of scheduled activities
 - As a user, I want to be able to filter scheduled activities by date and view the list of activity names in the filtered list
 - As a user, I want to be able to save my activity collection, including my scheduled activities, to file (if I so choose)
